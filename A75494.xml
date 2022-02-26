@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Apologeticall animadversions of certaine abuses that may be reformed in ecclesiasticall persons and ecclesiasticall courts without the utter extirpation of either. Presented to the consideration of the high and Honourable Court of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75494</idno>
+            <idno type="STC">Wing A3538</idno>
+            <idno type="STC">Thomason E132_28</idno>
+            <idno type="STC">ESTC R209857</idno>
+            <idno type="EEBO-CITATION">99868711</idno>
+            <idno type="PROQUEST">99868711</idno>
+            <idno type="VID">157286</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75494)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157286)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E132[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Apologeticall animadversions of certaine abuses that may be reformed in ecclesiasticall persons and ecclesiasticall courts without the utter extirpation of either. Presented to the consideration of the high and Honourable Court of Parliament.</title>
+               </titleStmt>
+               <extent>[2], 4, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed. 1641 [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The last leaf is blank.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Controversial literature --  Early works to 1800.</term>
+               <term>Church and state --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157286:1" rendition="simple:additions"/>
+            <p>APOLOGETICALL Animadverſions of certaine abuſes that may be reformed in Eccleſiaſticall perſons and Eccleſiaſticall Courts without the utter extirpation of either.</p>
+            <p>Preſented to the conſideration of the high and Honourable Court of Parliament.</p>
+            <figure/>
+            <p>London Printed. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:157286:2"/>
+            <pb n="1" facs="tcp:157286:2"/>
+            <head>Apologeticall Animadverſions of certaine Abuſes that may be reformed in Eccleſiaſticall perſons, and Eccleſiaſticall Courts, without the utter extirpation of either. Preſented to the conſideration of the high and Honourable Court of Parliament.</head>
+            <p n="1">1. <seg rend="decorInit">T</seg>Hat every Archbiſhop, Biſhop, Chancelor, Vi<g ref="char:EOLhyphen"/>car Generall, Surrogate, Archdeacon, or any ha<g ref="char:EOLhyphen"/>ving authority in that behalfe (when he Inſti<g ref="char:EOLhyphen"/>tuteth, Collateth, or Inveſteth any Clerk in any Benefice with cure of Soules, or any dig<g ref="char:EOLhyphen"/>nity in a Cathedrall or Collegiate Church, or any other ſpirtuall promotion) ſhall in the preſence of the Regiſter, and one or two publique Notaries, miniſter the Oath of Si<g ref="char:EOLhyphen"/>monie to Patron and Clerk, and cauſe an
+<pb n="2" facs="tcp:157286:3"/>Act to be made thereof, upon a certain paine.</p>
+            <p n="2">2. No Biſhop to admit any youth under 23 yeares of age, nor any that is not of ſuffi<g ref="char:EOLhyphen"/>cient learning, unto Holy Orders, upon a paine to be inflicted upon the deliquent Biſhop.</p>
+            <p n="3">3. No Archbiſhop or Biſhop ſhall em<g ref="char:EOLhyphen"/>ploy any to be Vicar Generall, but ſuch as have <hi>poteſt tem clavium,</hi> neither ſhall any Si<g ref="char:EOLhyphen"/>moniacall perſon uſe and exerciſe ſuch au<g ref="char:EOLhyphen"/>thority in any viſitation Provinciall or Epiſ<g ref="char:EOLhyphen"/>copall, upon a paine.</p>
+            <p n="4">4. No Biſhop or other inferiour Clergy<g ref="char:EOLhyphen"/>man ſhall be a notorious Blaſphemer, Drun<g ref="char:EOLhyphen"/>kard, Sweater, Adulterer, Inceſtuous, Forni<g ref="char:EOLhyphen"/>catour, &amp;c. or keepe or maintaine any ſuch in his houſe, being by preſentment under cenſure Eccleſiaſticall, upon a paine.</p>
+            <p n="5">5. No Biſhop upon a Bond to ſave harm<g ref="char:EOLhyphen"/>leſſe, or ſuch like pretence, ſhall diſcharge any party that is followed by due courſe of Law to an <hi>Exco. capiendo</hi> in a cauſe of in<g ref="char:EOLhyphen"/>ſtance between party and party, upon a paine.</p>
+            <pb n="3" facs="tcp:157286:3"/>
+            <p n="6">6. No man preſented by Churchwar<g ref="char:EOLhyphen"/>dens or Miniſter for drunkenneſſe, adultery, inceſt, fornication, or other criminall cauſe, and followed to <hi>Excom. capiend.</hi> ſhall be freed without publique Confeſſion of his offence, and an act of his Confeſſion for ſatisfaction to the Church, upon a paine.</p>
+            <p n="7">7. No man ſhall be allowed above two moneths to profecute an appeale upon pre<g ref="char:EOLhyphen"/>ſentment, and the higher Court ſhall not hold it above a twelve month, upon a pain.</p>
+            <p n="8">8. Every Citation upon a Iudge a <hi>Quo,</hi> ſhall be ſerved in open Court, And an Act thereof, upon a paine.</p>
+            <p n="9">9. No Archbiſhop, Biſhop, Deane, &amp;c. or other having authority, ſhall grant, ſeale, or deliver any Patent to a Regiſter before he hath taken the Oath of Simonie, and the Oath to doe juſtly and uprightly, as is requi<g ref="char:EOLhyphen"/>red by the Canon, upon a paine.</p>
+            <p n="10">10. All Archbiſhops, Biſhops, Deanes, Chancellors, and all having authority, ſhall without fraud employ Commutation mony to pious uſes, and thereupon ſhall cauſe an
+<pb n="4" facs="tcp:157286:4"/>Act to be made, where the name of the of<g ref="char:EOLhyphen"/>fender, his crime, the time, place, and ſumme of his Commutation, and he manner how it was beſtowed, ſhall be expreſſed, upon a paine.</p>
+            <p n="11">11. Every Archbishop, Bishop, Dean, Arch<g ref="char:EOLhyphen"/>deacon, Cannon, Prebend, or any perſon Lay or Eccleſiaſtical holding any Impropria<g ref="char:EOLhyphen"/>tion, shall leaſe it unto the Incumbent for the time being with Cure of Soules <hi>Sans</hi> fine upon the uſuall rent, upon a paine.</p>
+            <p n="12">12. The Regiſters negligence in tranſmit<g ref="char:EOLhyphen"/>ting a Record shall not be a cauſe ſufficient for the <hi>Iudex ad quem</hi> to excommunicate the <hi>Iudex a quo,</hi> unleſſe it appeares, that being ad<g ref="char:EOLhyphen"/>monish'd, the Iudge <hi>a Quo</hi> did refuſe to ex<g ref="char:EOLhyphen"/>hibite his Patent. And the Iudge <hi>ad Quem</hi> upon appeale, to avoyd delay shall not in<g ref="char:EOLhyphen"/>tend the tearmes of the Courts as the Merit of the Cauſe.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:157286:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
